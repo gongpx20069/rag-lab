@@ -24,10 +24,6 @@ RAG-LAB is an open-source lighter, faster and cheaper RAG toolkit supported by [
 
 **To install: `pip install raglab2`**
 
-## About TargetPilot
-
-[TargetPilot](https://admin.targetpilot.ai/login) is a company focused on empowering the e-commerce sector with artificial intelligence. TargetPilot OnlineAssistant has an industry leading RAG technology solution, feel free to click on the [link](https://admin.targetpilot.ai/login).
-
 ## Table of Contents
 
 - [Goals](#goals)
